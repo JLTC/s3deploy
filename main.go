@@ -11,7 +11,7 @@ import (
 	"log"
 
 	//"github.com/bep/s3deploy/v2/lib"
-	"github.com/JLTC/bip/tree/master/lib"
+	"github.com/JLTC/s3deploy/tree/main/lib"
 )
 
 var (
