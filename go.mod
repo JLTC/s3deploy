@@ -1,4 +1,4 @@
-module github.com/JLTC/bip
+module github.com/JLTC/s3deploy
 
 go 1.14
 
